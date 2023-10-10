@@ -556,11 +556,6 @@ video {
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 
-.text-red-500 {
-  --tw-text-opacity: 1;
-  color: rgb(239 68 68 / var(--tw-text-opacity));
-}
-
 @media (prefers-color-scheme: dark) {
   .dark\:from-slate-800 {
     --tw-gradient-from: #1e293b var(--tw-gradient-from-position);
