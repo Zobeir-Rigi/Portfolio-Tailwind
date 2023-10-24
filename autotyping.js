@@ -119,10 +119,10 @@ var AutoTyping = (function (e) {
   ]).default;
   
   
-  const exampleText = ['Developer', 'Designer', 'Author'];
+  const exampleText = ['JavaScript', 'React', 'Sql',' Node.js', 'Tailwind', 'APIs'];
   const exampleTyping = new AutoTyping('#text', exampleText, {
-      typeSpeed: 100,
-      deleteSpeed: 100,
+      typeSpeed: 70,
+      deleteSpeed: 70,
       waitBeforeDelete: 2000,
       waitBetweenWords: 500,
   });
