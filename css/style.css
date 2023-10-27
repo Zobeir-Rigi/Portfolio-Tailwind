@@ -332,6 +332,12 @@ menu {
   margin: 0;
   padding: 0;
 }
+/* Add bullet points to unordered lists (ul) */
+ul {
+  list-style: disc; /* Use "disc" style for bullets */
+  margin-left: 1rem; /* Add some margin to separate bullet points from the content */
+}
+
 
 /*
 Prevent resizing textareas horizontally by default.
