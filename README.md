@@ -10,7 +10,7 @@ Contact<br>
 <strong>Introduction</strong><br>
 This portfolio serves as a platform to demonstrate my capabilities as a Full Stack Developer. It includes information about my skills, projects I've worked on, and ways to get in touch with me.<br>
 
-<strong>Features</strong>
+<strong>Features</strong><br>
 Responsive Design: The portfolio is designed to be fully responsive, ensuring a seamless experience across various devices.<br>
 Navigation: Easy navigation with a navbar and smooth scrolling to different sections of the portfolio.<br>
 Dark Mode: Provides a visually appealing dark mode for users who prefer it.<br>
