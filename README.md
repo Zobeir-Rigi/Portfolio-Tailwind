@@ -1,5 +1,7 @@
 # Zobeir Rigi's Portfolio
-Welcome to my portfolio! This portfolio showcases my skills, projects, and information about me as a Full Stack Developer. I use Tailwind, so the project name is TailArt .
+Welcome to my portfolio! This portfolio showcases my skills, projects, and information about me as a Full Stack Developer. I use Tailwind, so the project name is TailArt.<br>
+- 📫 Reach me at **rigi.zobir@yahoo.com**
+- <a href="https://www.linkedin.com/in/zobeir-r-37068217b/"  target="_blank" >LinkedIn</a>
 
 <strong>Table of Contents</strong><br>
 Introduction<br>
