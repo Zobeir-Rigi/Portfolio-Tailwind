@@ -13,7 +13,7 @@ This portfolio serves as a platform to demonstrate my capabilities as a Full Sta
 <strong>Features</strong><br>
 Responsive Design: The portfolio is designed to be fully responsive, ensuring a seamless experience across various devices.<br>
 Navigation: Easy navigation with a navbar and smooth scrolling to different sections of the portfolio.<br>
-Dark Mode: Provides a visually appealing dark mode for users who prefer it.<br>
+<strong>Dark Mode</strong>: Provides a visually appealing dark mode for users who prefer it.<br>
 About Me: A section providing information about my background, skills, and education.<br>
 Services: Details about the services I offer, including website development, web app creation, e-commerce setup, database management, website maintenance, and API integration.<br>
 <strong>Projects</strong>: Showcases a selection of projects I've worked on, including descriptions, technologies used, and links to GitHub repositories and live demos.<br>
