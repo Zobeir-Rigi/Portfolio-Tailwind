@@ -23,6 +23,7 @@ Technologies Used : HTML,CSS (Tailwind CSS), and JavaScript
 ## Contact <br>
 
 Have a question or want to collaborate? Feel free to reach out to me via the following options :
+- Email: [rigi.zobir@yahoo.com](mailto:rigi.zobir@yahoo.com)
 - [LinkedIn](https://www.linkedin.com/in/zobeir-r-37068217b/)
 - [GitHub](https://github.com/Zobeir-Rigi)
 - [Codewars](https://www.codewars.com/users/Zobeir-Rigi)
